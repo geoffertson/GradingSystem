@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <Reference Include="BuildingBlocks.Application">
-      <HintPath>..\..\..\..\shared\BuildingBlocks\BuildingBlocks.Application\bin\Debug\net8.0\BuildingBlocks.Application.dll</HintPath>
+      <HintPath>..\..\..\shared\BuildingBlocks\BuildingBlocks.Application\bin\Debug\net8.0\BuildingBlocks.Application.dll</HintPath>
     </Reference>
   </ItemGroup>
 

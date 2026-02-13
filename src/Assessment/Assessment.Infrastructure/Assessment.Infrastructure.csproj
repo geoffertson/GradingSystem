@@ -22,13 +22,13 @@
 
   <ItemGroup>
     <Reference Include="BuildingBlocks.Application">
-      <HintPath>..\..\..\..\shared\BuildingBlocks\BuildingBlocks.Application\bin\Debug\net8.0\BuildingBlocks.Application.dll</HintPath>
+      <HintPath>..\..\..\shared\BuildingBlocks\BuildingBlocks.Application\bin\Debug\net8.0\BuildingBlocks.Application.dll</HintPath>
     </Reference>
     <Reference Include="BuildingBlocks.Domain">
-      <HintPath>..\..\..\..\shared\BuildingBlocks\BuildingBlocks.Domain\bin\Debug\net8.0\BuildingBlocks.Domain.dll</HintPath>
+      <HintPath>..\..\..\shared\BuildingBlocks\BuildingBlocks.Domain\bin\Debug\net8.0\BuildingBlocks.Domain.dll</HintPath>
     </Reference>
     <Reference Include="BuildingBlocks.Messaging">
-      <HintPath>..\..\..\..\shared\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.dll</HintPath>
+      <HintPath>..\..\..\shared\BuildingBlocks\BuildingBlocks.Messaging\bin\Debug\net8.0\BuildingBlocks.Messaging.dll</HintPath>
     </Reference>
   </ItemGroup>
 
