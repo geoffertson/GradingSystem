@@ -1,7 +1,6 @@
 ﻿namespace BuildingBlocks.Domain
 {
-    public class AggregateRoot
+    public abstract class AggregateRoot : Entity
     {
-
     }
 }
